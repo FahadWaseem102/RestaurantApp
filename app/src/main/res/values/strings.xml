@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="email_string">E-mail</string>
+    <string name="password_string">Password</string>
+    <string name="login_string">Log In</string>
+    <string name="intro_string">Restaurant</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="tab1_name">Tables</string>
+    <string name="tab2_name">Order</string>
+</resources>

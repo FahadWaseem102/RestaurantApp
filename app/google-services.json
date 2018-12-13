@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "379379937105",
+    "firebase_url": "https://fir-project-90ba7.firebaseio.com",
+    "project_id": "fir-project-90ba7",
+    "storage_bucket": "fir-project-90ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379379937105:android:7092b33296916b59",
+        "android_client_info": {
+          "package_name": "com.example.fahad.firebasepractise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379379937105-6debff0nf5vn2j9pp74asvia7ogee2l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahad.firebasepractise",
+            "certificate_hash": "e4fbc4e21fc0da2880f9c64ebe10ce002e56a71f"
+          }
+        },
+        {
+          "client_id": "379379937105-1ejhcdojs83rdols3vkivp2kn90gmpq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpdBwisqwKGi8s2KXObDqIcNXPvFWMMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379379937105-1ejhcdojs83rdols3vkivp2kn90gmpq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379379937105:android:192c9a6e719ba202",
+        "android_client_info": {
+          "package_name": "com.example.fahad.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379379937105-ooim2j2spm5c6mao8gg1mp124a0bbtov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahad.restaurantapp",
+            "certificate_hash": "e4fbc4e21fc0da2880f9c64ebe10ce002e56a71f"
+          }
+        },
+        {
+          "client_id": "379379937105-1ejhcdojs83rdols3vkivp2kn90gmpq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpdBwisqwKGi8s2KXObDqIcNXPvFWMMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379379937105-1ejhcdojs83rdols3vkivp2kn90gmpq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
